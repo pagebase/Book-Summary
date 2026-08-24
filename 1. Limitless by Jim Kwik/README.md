@@ -673,7 +673,7 @@ more likely to procrastinate and sabotage yourself.
 
 > Kwik start
 
-![ks_19](ks_19.jpg)
+![ks_19](./Media/ks_19.jpg)
 
 # What you have to loose?
 
