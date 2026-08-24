@@ -653,3 +653,49 @@ purpose, or your core values.
 your parents expect it of you. Make sure your goal is something you want,
 something that remains true to you. If your goal isn’t true to you, you’re far
 more likely to procrastinate and sabotage yourself.
+
+---
+
+> [!TIP]
+> Find passion and pupose in life.
+
+
+> Kwik start
+
+
+![ks_17](./Media/ks_17.jpg)
+
+
+>Kwik start
+
+
+![ks_18](./Media/ks_18.jpg)
+
+> Kwik start
+
+![ks_19](ks_19.jpg)
+
+# What you have to loose?
+
+Let’s do an exercise. Write down all the disadvantages you have to face if you
+do not learn to use the material in this book. What will it cost you right now and
+in the future? For example, you could write, “I will have to keep studying hard
+and settle for the same mediocre grades or job.” Or, “I won’t be able to spend
+time with my loved ones,” or “I won’t get that raise.” The key is to make sure you feel the emotions. Don’t make this an intellectual thing. We make decisions
+based on how we feel. Really feel the pain that you will have if you don’t do
+something about it. This is the only way for you to make a change last and to get
+you to follow through.
+Pain can be your teacher, if you use it and not let it use you. Use pain to drive
+you to make things happen. If you are honest, you may write something like: “I
+will have to settle for a job I hate, make very little money, have no free time for
+myself or anyone else, and I will have to put up with it for the rest of my life,
+bored and frustrated.” This will get you to do something about it! Do this now.
+
+
+---
+# Tips & tricks
+1. **Find your reason:** Right now, stop and consider three reasons that you want to learn better. Your reasons should be concrete, like: “I want to learn Spanish so that I can finally speak to my father-in-law,” or “I want to learn American history so I can help my kid learn better in school,” or “I want to learn how to research better so I can finish my business plan and find an investor for my company.” Write them down.
+2. **Create a list of the things you value the most. Now prioritize that list and think about how this aligns with your definition of yourself**
+3. **Get into the habit of asking the question “why” before you do anything**
+4. 
+
