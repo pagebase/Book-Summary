@@ -691,11 +691,140 @@ will have to settle for a job I hate, make very little money, have no free time 
 myself or anyone else, and I will have to put up with it for the rest of my life,
 bored and frustrated.” This will get you to do something about it! Do this now.
 
+# Fogg model
+
+In Jim Kwik’s book _Limitless_, the Fogg Behavior Model (created by Stanford behavioral scientist Dr. BJ Fogg) is introduced in Chapter 9 during the discussion on **Motivation**.
+
+  
+
+Kwik uses this model to explain the mechanics of habit formation, emphasizing that upgrading your brain and building better learning habits shouldn't rely on sheer willpower alone.
+
+  
+
+According to the model, for any behavior or habit to occur, three elements must converge at the exact same moment. This is often expressed as the formula **B = MAT** (or MAP):
+
+  
+
+### 1. Motivation (M)
+
+This is your underlying drive or desire to complete the action. Motivation is driven by underlying factors like pleasure/pain, hope/fear, or social acceptance/rejection. However, both Kwik and Fogg point out a critical flaw: **motivation naturally fluctuates**. Because you cannot control your motivation levels every day, relying on it to build a habit usually leads to failure.
+
+  
+
+### 2. Ability (A)
+
+Ability is simply how easy or difficult the task is to execute. This is the most actionable part of the model in _Limitless_. Kwik advises that if you make a behavior incredibly simple, you don't need much motivation to get it done.
+
+  
+
+- _Example:_ If you want to build a reading habit, expecting yourself to read a whole chapter requires high motivation. If you scale the **ability** down to reading just _one paragraph_, it becomes so simple that you will do it even on days you feel unmotivated. Kwik refers to this as taking "Small Simple Steps."
+    
+      
+    
+
+### 3. Trigger / Prompt (T / P)
+
+A trigger is the cue or signal that reminds you to take the action. The most effective triggers are existing daily routines.
+
+  
+
+- _Example:_ Instead of randomly deciding to meditate, you use an existing habit as the trigger: _"After I start the coffee maker, I will do three minutes of deep breathing"_.
+    
+      
+    
+
+### The _Limitless_ Takeaway
+
+When people fail to adopt good learning habits, they usually blame a lack of motivation. Kwik uses the Fogg model to flip this narrative: if a behavior isn't happening, you likely need to make the task **easier (Ability)** or establish a clearer **reminder (Trigger)**.
+
+> Kwik start
+
+![ka_20](./Media/ks_20.png)
+
+# CREATING A NEW HABIT
+
+The Fogg Behavior Model shows us everything that needs to be in place for a
+particular behavior to become a habit. We know that making habits of behaviors
+we consider good for us is important to our growth, and we also know that the
+key to breaking bad habits is to replace them with more constructive ones. But
+how do you make something a habit? Just remember **WIN:**
+
+- **W is for Want:** Make sure you really want it. It’s nearly impossible to turn
+something into a habit if you don’t want to do that thing. Does one of the
+motivators in the Fogg Model apply to the habit you’re trying to adopt? If
+not, is there something close to this habit that might accomplish something
+similar for you?
+
+- **I is for Innate:** Does the new habit you’re trying to adopt align well with
+your innate abilities? Remember that you’re unlikely to make something a
+habit when it is consistently difficult for you to perform. If the habit you’re
+trying to adopt is something that you’re good at or you know you can be
+good at, you’re well on your way.
+
+- **N is for Now:** Create a prompt for yourself that encourages you to perform
+the new habit now. This can be anything from a reminder on your phone to
+placing something in your office that makes you remember to set aside time
+to do what you’re setting out to do.
+
+# D.R.E.A.M.S
+
+- **D is for Decide:** The night before, make a conscious decision that you’re
+going to recall your dreams. If you set the intention, your chances improve
+dramatically.
+
+- **R is for Record:** Keep a pen and paper by your bedside, or even have a
+recording app readily available on your phone. As soon as you wake up,
+record any lingering remembrance of your dreams.
+
+- **E is for Eyes:** Keep your eyes closed right after you awaken. Dreams can
+disappear within minutes, and if you keep your eyes closed, this will help
+you reflect.
+
+- **A is for Affirm:** Before you go to sleep, affirm that you are going to
+remember your dreams, because affirmation is a critical tool in
+accomplishment.
+
+- **M is for Manage:** For lots of reasons but specifically here for the sake of
+remembering your dreams, it’s important to manage your sleep and
+establish good sleep routines.
+
+- **S is for Share:** Talk about your dreams with others. When you do so, you
+bring them more and more to the surface, and you develop the routine of
+tapping into your dreams so you can discuss them later.
+
+> Kwik start
+
+![ks_21](./Media/ks_21.png)
+
+# Finding flow
+
+1. **Eliminate Distractions**
+2. **Give Yourself Enough Time**
+3. **Do Something You Love**
+4. **Have Clear Goals**
+5. **Challenge Yourself . . . A Little**
+
+# Enemies of flow
+
+1. **Multitasking**
+2. **Stress**
+3. **Fear of failure**
+4. **Lack of Conviction**
+5. ****
 
 ---
 # Tips & tricks
 1. **Find your reason:** Right now, stop and consider three reasons that you want to learn better. Your reasons should be concrete, like: “I want to learn Spanish so that I can finally speak to my father-in-law,” or “I want to learn American history so I can help my kid learn better in school,” or “I want to learn how to research better so I can finish my business plan and find an investor for my company.” Write them down.
 2. **Create a list of the things you value the most. Now prioritize that list and think about how this aligns with your definition of yourself**
 3. **Get into the habit of asking the question “why” before you do anything**
-4. 
+4. **Brush teeth with opposite hand and change it in a month**
+5. Morning routine:
+	1. Make your bed
+	2. Drink water
+	3. Brush your teeth with opposite hand
+	4. Workout
+	5. Cold shower
+	6. Breathing exercises
+	7. Meditation
+	8. Journal your day and make todo list
 
