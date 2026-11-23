@@ -7,7 +7,8 @@
 
 ---
 
-> Kwik start
+> # Kwik start
+> 
 > Take a moment and schedule 30 minutes of white space in your calendar for this week. This is
 time to be spent away from technology, time dedicated to clear your mind, relax, and be
 creative.
