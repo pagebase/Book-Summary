@@ -17,3 +17,7 @@ creative.
 > Go to the notification settings of your phone and turn off all unnecessary and distracting pings
 and dings. Do this now.
 
+> # Kwik start
+> Take a minute to exercise your memory: Memorize the phone number of someone you
+communicate with regularly.
+
