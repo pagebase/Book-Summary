@@ -13,3 +13,7 @@
 time to be spent away from technology, time dedicated to clear your mind, relax, and be
 creative.
 
+> # Kwik start
+> Go to the notification settings of your phone and turn off all unnecessary and distracting pings
+and dings. Do this now.
+
