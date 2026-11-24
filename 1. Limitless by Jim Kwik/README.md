@@ -25,3 +25,9 @@ communicate with regularly.
 > Think about a decision you need to make. Schedule some time to work on that decision
 without the use of any digital devices.
 
+> # Kwik start
+> Which of the four digital villains do you believe are currently most disrupting your
+performance, productivity, and peace of mind?
+Take a moment and write the name of this villain down.
+Conscious awareness is the first part to solving a problem.
+
