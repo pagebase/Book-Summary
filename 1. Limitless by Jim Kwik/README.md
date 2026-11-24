@@ -21,3 +21,7 @@ and dings. Do this now.
 > Take a minute to exercise your memory: Memorize the phone number of someone you
 communicate with regularly.
 
+> # Kwik start
+> Think about a decision you need to make. Schedule some time to work on that decision
+without the use of any digital devices.
+
