@@ -36,3 +36,6 @@ Conscious awareness is the first part to solving a problem.
 that amount of time. When your alarm goes off, bookmark this book and close it. Then write
 down what you learned within that 25-minute period.
 
+1. Use `F.A.S.T.E.R` method
+
+    - `F`orget: The key to laser focus is to remove or forget that which distracts you.
