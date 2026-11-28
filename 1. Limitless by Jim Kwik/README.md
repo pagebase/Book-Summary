@@ -31,7 +31,7 @@ performance, productivity, and peace of mind?
 Take a moment and write the name of this villain down.
 Conscious awareness is the first part to solving a problem.
 
-> Kwik start
+> # Kwik start
 > Set a timer for 25 minutes right now and concentrate on what you’re reading in this book for
 that amount of time. When your alarm goes off, bookmark this book and close it. Then write
 down what you learned within that 25-minute period.
